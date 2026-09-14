@@ -4,7 +4,7 @@ A modern **car rental web application** built with React and Vite. Explorer Rent
 
 ## 🌐 Live Demo
 
-**Live Demo:** [Add your deployed URL here](https://your-live-demo-url.vercel.app)
+**Live Demo:** [Explorer Rentroo](https://explorer-rentroo.vercel.app/)
 
 > After deploying the project on Vercel, Netlify, or another hosting platform, replace the URL above with your actual live-demo link.
 
