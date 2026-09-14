@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { assets, dummyCars } from "../assets/data";
-import CarImages from "../components/carImages";
+import CarImages from "../components/CarImages";
 
 const CarDetails = () => {
   const [car, setCar] = useState(null);
